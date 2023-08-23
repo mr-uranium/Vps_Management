@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sons-of-liberty/DRAGON-VPS-MANAGER" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/mr-uranium/Vps_Management" target="_blank" rel="noopener noreferrer">
     <picture>
       <img width=250px height=250px src="https://github.com/januda-ui/januda-ui/blob/main/icons/photo_2021-12-01_07-36-12.jpg?raw=true?raw=true" alt="logo">
     </picture>
@@ -21,7 +21,7 @@
 Run this command:
 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/sons-of-liberty/DRAGON-VPS-MANAGER/main/hehe)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/mr-uranium/Vps_Management/main/hehe)"
 
 ```
 Once the installation is complete, run:
